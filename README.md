@@ -30,6 +30,7 @@ Send pull request with changes you would like to add to this repo and we will re
 |Khaled Abousead   |  |   | [email][10]  |
 |Vedeat Saraswat   | [@vedantiitkgp][12]  |   | [email][11]  |
 |Abhinav Srivastava | [@ProBeta1][13]   | [Website][14]  | [email][15]  |
+|Juan Alegría   | [@zejiran][17]  |   | [email][18]  |
 
 [1]: https://github.com/fabriziobertoglio1987 
 [2]: https://fabriziobertoglio.xyz
@@ -53,3 +54,6 @@ Send pull request with changes you would like to add to this repo and we will re
 [15]: mailto:humblebeta@gmail.com?subject=[GitHub]%20Hackathon%20Team
 
 [16]: https://github.com/renanmav
+
+[17]: https://github.com/zejiran
+[18]: mailto:juanszalegria@gmail.com?subject=[GitHub]%20Hackathon%20Team
