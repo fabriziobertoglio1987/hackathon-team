@@ -31,6 +31,8 @@ Send pull request with changes you would like to add to this repo and we will re
 |Vedeat Saraswat   | [@vedantiitkgp][12]  |   | [email][11]  |
 |Abhinav Srivastava | [@ProBeta1][13]   | [Website][14]  | [email][15]  |
 |Juan Alegría   | [@zejiran][17]  |   | [email][18]  |
+|Bravish Ghosh   | [@LoopGlitch26][20] | [Website][21]  | [email][22]  |
+
 
 [1]: https://github.com/fabriziobertoglio1987 
 [2]: https://fabriziobertoglio.xyz
@@ -57,3 +59,7 @@ Send pull request with changes you would like to add to this repo and we will re
 
 [17]: https://github.com/zejiran
 [18]: mailto:juanszalegria@gmail.com?subject=[GitHub]%20Hackathon%20Team
+
+[20]: https://github.com/LoopGlitch26
+[21]: https://www.loopglitch.tech
+[22]: mailto:grandson.baba.2012@gmail.com?subject=[GitHub]%20Hackathon%20Team
