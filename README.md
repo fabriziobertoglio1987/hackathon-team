@@ -6,9 +6,11 @@
 #### HOW TO CONTRIBUTE
 
 1. Share on Facebook and Twitter this [repo link](https://github.com/fabriziobertoglio1987/hackathon-team), more info at [this discussion](https://github.com/fabriziobertoglio1987/hackathon-team/issues/4#issue-630599796)
-2. Start by discussing [here](https://github.com/fabriziobertoglio1987/hackathon-team/issues/1).
-3. Please create and complete a task from our [kanban board](https://github.com/fabriziobertoglio1987/hackathon-team/projects/1). 
-4. Send pull request with changes you would like to add to this repo and we will review them. Please add your details to the [list of participants](https://github.com/fabriziobertoglio1987/hackathon-team#participants) by sending a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+2. Watch this repository to receive email notifications
+<img src="https://fabriziobertoglio.s3.eu-central-1.amazonaws.com/opensource/hackathon/how_to_watch_repo.png" />
+3. Start by discussing [here](https://github.com/fabriziobertoglio1987/hackathon-team/issues/1).
+4. Please create and complete a task from our [kanban board](https://github.com/fabriziobertoglio1987/hackathon-team/projects/1). 
+5. Send pull request with changes you would like to add to this repo and we will review them. Please add your details to the [list of participants](https://github.com/fabriziobertoglio1987/hackathon-team#participants) by sending a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 #### CALENDAR
 
