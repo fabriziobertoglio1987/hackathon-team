@@ -44,7 +44,7 @@ Check each Project **PAGE** to have more info.
 |Bravish Ghosh   | [@LoopGlitch26][20] | [Website][21]  | [email][22]  |
 |Saravanan Selvamohan   | [@saravananselvamohan][23] | [Website][24]  | [email][25]  |
 |Abel C Dixon   | [@CasCard][26] | [Website][27]  | [email][28]  |
-|Edmund Yong   | [@munjyong][29] | [Website][27]  | [email][28]  |
+|Edmund Yong   | [@munjyong][29] | [Website][30]  | [email][31]  |
 
 
 [1]: https://github.com/fabriziobertoglio1987 
@@ -85,6 +85,6 @@ Check each Project **PAGE** to have more info.
 [27]: https://innovaim.in
 [28]: mailto:abelcheruvathoor@gmail.com?subject=[GitHub]%20Hackathon%20Team
 
-[26]: https://github.com/munjyong
-[27]: https://www.munjyong.dev/
-[28]: mailto:munjyong@gmail.com?subject=[GitHub]%20Hackathon%20Team
+[29]: https://github.com/munjyong
+[30]: https://www.munjyong.dev/
+[31]: mailto:munjyong@gmail.com?subject=[GitHub]%20Hackathon%20Team
