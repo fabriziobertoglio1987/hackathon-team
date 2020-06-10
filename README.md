@@ -46,6 +46,7 @@ Check each Project **PAGE** to have more info.
 |Abel C Dixon   | [@CasCard][26] | [Website][27]  | [email][28]  |
 |Animesh Mohanty| [@animeshmohanty][29] | [Website][30] | [email][31] |
 |Edmund Yong   | [@munjyong][32] | [Website][33]  | [email][34]  |
+|prdk0  | [@prdk0][35] |  | [email][36]
 
 
 [1]: https://github.com/fabriziobertoglio1987 
@@ -93,3 +94,6 @@ Check each Project **PAGE** to have more info.
 [32]: https://github.com/munjyong
 [33]: https://www.munjyong.dev/
 [34]: mailto:munjyong@gmail.com?subject=[GitHub]%20Hackathon%20Team
+
+[35]: https://github.com/prdk0
+[36]: mailto:pradeek.k@gmail.com?subject=[GitHub]%20Hackathon%20Team
