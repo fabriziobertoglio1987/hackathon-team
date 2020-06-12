@@ -48,7 +48,7 @@ Check each Project **PAGE** to have more info.
 |Edmund Yong   | [@munjyong][32] | [Website][33]  | [email][34]  |
 |prdk0  | [@prdk0][35] |  | [email][36] |
 |Paolo Ranit | [@gittycoder01][37] | | |
-|javiershaka | [@javiershaka][38] | Website][39]|[email][40] |
+|javiershaka | [@javiershaka][38] | [Website][39]|[email][40] |
 
 [1]: https://github.com/fabriziobertoglio1987 
 [2]: https://fabriziobertoglio.xyz
