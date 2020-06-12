@@ -34,6 +34,7 @@ Check each Project **PAGE** to have more info.
 |---|---|---|---|
 |Fabrizio Bertoglio   | [@fabriziobertoglio1987][1]  |[Website][2]   | [email][3]  |
 |Juan Alegría   | [@zejiran][17]  |   | [email][18]  |
+|cristianoccazinsp | [@cristianoccazinsp][41] |||
 |Animesh Mohanty| [@animeshmohanty][29] | [Website][30] | [email][31] |
 |Paolo Ranit | [@gittycoder01][37] | | |
 |Saravanan Selvamohan   | [@saravananselvamohan][23] | [Website][24]  | [email][25]  |
@@ -104,3 +105,5 @@ Check each Project **PAGE** to have more info.
 [38]: https://github.com/javiershaka
 [39]: https://www.linkedin.com/in/javiershaka/
 [40]: javiershaka@gmail.com
+
+[41]: https://github.com/cristianoccazinsp
