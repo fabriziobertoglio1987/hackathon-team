@@ -33,22 +33,22 @@ Check each Project **PAGE** to have more info.
 |Name   | Github | Website  | Email  |
 |---|---|---|---|
 |Fabrizio Bertoglio   | [@fabriziobertoglio1987][1]  |[Website][2]   | [email][3]  |
+|Juan Alegría   | [@zejiran][17]  |   | [email][18]  |
+|Animesh Mohanty| [@animeshmohanty][29] | [Website][30] | [email][31] |
+|Paolo Ranit | [@gittycoder01][37] | | |
+|Saravanan Selvamohan   | [@saravananselvamohan][23] | [Website][24]  | [email][25]  |
 |Renan Machado   | [@renanmav][16]  |   |   |
 |Vaghani Jaivik   |   |[Website][4]   | [email][5]  |
-|Ako   |   |   | [email][7]  |
-|Sam Epeagba   | [@epeagbas][9]  |   | [email][8]  |
+|Bravish Ghosh   | [@LoopGlitch26][20] | [Website][21]  | [email][22]  |
+|Abel C Dixon   | [@CasCard][26] | [Website][27]  | [email][28]  |
+|Edmund Yong   | [@munjyong][32] | [Website][33]  | [email][34]  |
+|prdk0  | [@prdk0][35] |  | [email][36] |
 |Khaled Abousead   |  |   | [email][10]  |
 |Vedant Saraswat   | [@vedantiitkgp][12]  |   | [email][11]  |
 |Abhinav Srivastava | [@ProBeta1][13]   | [Website][14]  | [email][15]  |
-|Juan Alegría   | [@zejiran][17]  |   | [email][18]  |
-|Bravish Ghosh   | [@LoopGlitch26][20] | [Website][21]  | [email][22]  |
-|Saravanan Selvamohan   | [@saravananselvamohan][23] | [Website][24]  | [email][25]  |
-|Abel C Dixon   | [@CasCard][26] | [Website][27]  | [email][28]  |
-|Animesh Mohanty| [@animeshmohanty][29] | [Website][30] | [email][31] |
-|Edmund Yong   | [@munjyong][32] | [Website][33]  | [email][34]  |
-|prdk0  | [@prdk0][35] |  | [email][36] |
-|Paolo Ranit | [@gittycoder01][37] | | |
 |javiershaka | [@javiershaka][38] | [Website][39]|[email][40] |
+|Ako   |   |   | [email][7]  |
+|Sam Epeagba   | [@epeagbas][9]  |   | [email][8]  |
 
 [1]: https://github.com/fabriziobertoglio1987 
 [2]: https://fabriziobertoglio.xyz
