@@ -38,13 +38,13 @@ Check each Project **PAGE** to have more info.
 |Paolo Ranit | [@gittycoder01][37] | | |
 |Saravanan Selvamohan   | [@saravananselvamohan][23] | [Website][24]  | [email][25]  |
 |Renan Machado   | [@renanmav][16]  |   |   |
+|Vedant Saraswat   | [@vedantiitkgp][12]  |   | [email][11]  |
 |Vaghani Jaivik   |   |[Website][4]   | [email][5]  |
 |Bravish Ghosh   | [@LoopGlitch26][20] | [Website][21]  | [email][22]  |
 |Abel C Dixon   | [@CasCard][26] | [Website][27]  | [email][28]  |
 |Edmund Yong   | [@munjyong][32] | [Website][33]  | [email][34]  |
 |prdk0  | [@prdk0][35] |  | [email][36] |
 |Khaled Abousead   |  |   | [email][10]  |
-|Vedant Saraswat   | [@vedantiitkgp][12]  |   | [email][11]  |
 |Abhinav Srivastava | [@ProBeta1][13]   | [Website][14]  | [email][15]  |
 |javiershaka | [@javiershaka][38] | [Website][39]|[email][40] |
 |Ako   |   |   | [email][7]  |
