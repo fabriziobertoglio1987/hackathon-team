@@ -1,6 +1,6 @@
 |Name   | KanBan Board | Hackathon | Deadline | Repository |
 |---|---|---|---|---|
-| Virtual Assistant and Chatroom  | [KanBan Board][3] | [FB AI Hackathon][4]   | Deadline 5:00pm EDT Jun 24, 2020  | [alex][6] |
+| Virtual Assistant and Chatroom  | [KanBan Board][3] | [FB AI Hackathon][4]   | Deadline 5:00pm EDT Jun 24, 2020  | [Link to Github Repo][6] |
 
 **1 WEEK LEFT TO REGISTRATION**
 
